@@ -2,3 +2,7 @@
 *.elf
 *.out
 *.iso
+Makefile
+iso/
+*log*
+*.gch
